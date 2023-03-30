@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NoteAnalyticsApplication</string>
+    <string name="title">Title</string>
+    <string name="contents">Contents</string>
 </resources>
